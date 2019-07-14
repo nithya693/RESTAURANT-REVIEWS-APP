@@ -16,7 +16,7 @@ To Run it localy:
 * Download as .zip file or clone this project:
 
     ```
-    $ git clone 
+    $ git clone https://github.com/nithya693/RESTAURANT-REVIEWS-APP.git
     ```
 
 * In this folder, start up a simple HTTP server to serve up the site files on your local computer. Python has some simple tools to do this, and you don't even need to know Python. For most people, it's already installed on your computer. 
@@ -27,7 +27,7 @@ To Run it localy:
 
 ## Code Dependencies
 
-* [Project Restaurant Reviews - Starter Code]()
+* [Project Restaurant Reviews - Starter Code](https://github.com/nithya693/RESTAURANT-REVIEWS-APP)
 * [Normalize.css](https://necolas.github.io/normalize.css/)
 
  
